@@ -1,0 +1,102 @@
+/* #header{
+    border: .3px  solid #cccccc;
+
+}
+.ppp{
+
+    line-height: 40px;
+}
+.row .col-md-3{
+    border-left: .5px  solid #cccccc;
+}
+.row .col-md-5{
+    border-right: .5px  solid #cccccc;
+    border-left: .5px  solid #cccccc;
+}
+.row div{
+    font-size: 12px;
+}
+.row .headera{
+    color: black;
+}
+.row .headera:hover{
+    text-decoration: none;
+
+}
+.row .headera img{
+    position: absolute;
+    display: none;
+    left: 30px;
+    top: 40px;
+}
+.row .headera:hover img{
+    display: block;
+ 
+}
+.btn  btn-danger{
+    font-size: 12px;
+ 
+ 
+}
+.loging{
+    font-size: 14px;
+    color: #666666;
+    margin-left: 10px;
+}
+#nav{
+    height: 80px;
+    border-top:.5px  solid #cccccc;
+    position: relative;
+
+
+}
+.container .loga{
+    color: red;
+    font-size: 30px;
+    line-height: 80px;
+}
+.container .loga .icon-logo{
+    color: black;
+}
+.ulist {
+    position: absolute;
+     top: 22px;
+     left: 500px;
+}
+.ulist li{
+   float: left;
+   list-style: none;
+
+}
+.ulist li a {
+    color: #777777;
+    display: block;
+    height: 52px;
+    width: 88px;
+    text-align: center;
+    
+}
+/* .ulist li:nth-child(1){
+    border-bottom: 2px solid red;
+
+    
+} */
+/* .ulist li a:hover{
+border-bottom: 2px solid red;
+text-decoration: none;
+}
+.me{
+    float: right;
+    margin-top: 30px;
+    color: #777777;
+    width: 88px;
+    text-align: center;
+
+}
+.me:hover{
+    border-bottom: 2px solid red;
+    text-decoration: none;
+}
+.item img{
+    height: 410px;
+} */ 

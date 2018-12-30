@@ -1,0 +1,30 @@
+.navbar-default {
+  background-color: #fff;
+}
+.navbar-default .navbar-toggle {
+  margin-top: 23px;
+}
+.navbar-default .navbar-brand {
+  height: 80px;
+}
+.navbar-default .navbar-brand .icon-icon {
+  color: red;
+  font-size: 30px;
+  line-height: 50px;
+}
+.navbar-default .navbar-brand .icon-logo {
+  color: black;
+  font-size: 30px;
+  line-height: 50px;
+}
+.navbar-collapse .navbar-nav li a {
+  height: 80px;
+  line-height: 50px;
+}
+.navbar-collapse .navbar-nav li a:hover {
+  border-bottom: 2px red solid;
+}
+.navbar-collapse .navbar-nav li.avtion a {
+  border-bottom: 2px red solid;
+  background-color: #fff;
+}

@@ -1,0 +1,27 @@
+#header{
+   border-bottom: solid .3px #cccccc;
+   .row{
+       line-height: 40px;
+      div{
+          font-size: 14px;
+          a{
+              color: black;
+              img{
+                  position: absolute;
+                  left: 50%;
+                  margin-left: -60px;
+                  top: 44px;
+                  z-index:999;
+                  display: none;
+              }
+              &:hover img{
+                  display: block;
+              }
+       
+         }
+         &~div{
+            border-left: solid 0.3px #cccccc;
+          }
+      }
+   }
+}

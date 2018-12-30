@@ -1,0 +1,26 @@
+#header {
+  border-bottom: solid .3px #cccccc;
+}
+#header .row {
+  line-height: 40px;
+}
+#header .row div {
+  font-size: 14px;
+}
+#header .row div a {
+  color: black;
+}
+#header .row div a img {
+  position: absolute;
+  left: 50%;
+  margin-left: -60px;
+  top: 44px;
+  z-index: 999;
+  display: none;
+}
+#header .row div a:hover img {
+  display: block;
+}
+#header .row div ~ div {
+  border-left: solid 0.3px #cccccc;
+}
